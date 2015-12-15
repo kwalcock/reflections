@@ -3,4 +3,5 @@ What happens when you initialize a repository? Why do you need to do it?
 	It creates the metadata directories and files necessary to track
 	the changes in the repository.  To allow repository change tracking.
 	
-	
+
+Keith was here and is going to make a pull request.
